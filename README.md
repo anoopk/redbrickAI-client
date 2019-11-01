@@ -5,6 +5,10 @@ In order to test against the other stack (tasks) deploy the same and change the 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `npm install`
+
+This will install all the dependencies.
+
 ## Available Scripts
 
 In the project directory, you can run:
